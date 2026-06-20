@@ -1,8 +1,0 @@
-File: a.log
-Total lines: 3
-INFO count: 1
-WARNING count: 1
-ERROR count: 1
-CRITICAL count: 0
-Classification: DANGEROUS
-Most frequent severity: ERROR

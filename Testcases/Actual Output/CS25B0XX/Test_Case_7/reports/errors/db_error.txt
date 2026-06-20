@@ -1,2 +1,0 @@
-ERROR Query failed
-ERROR Query failed

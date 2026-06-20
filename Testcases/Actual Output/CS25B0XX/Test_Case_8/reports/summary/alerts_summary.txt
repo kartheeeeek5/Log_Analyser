@@ -1,8 +1,0 @@
-File: alerts.log
-Total lines: 4
-INFO count: 1
-WARNING count: 3
-ERROR count: 0
-CRITICAL count: 0
-Classification: ATTENTION
-Most frequent severity: WARNING

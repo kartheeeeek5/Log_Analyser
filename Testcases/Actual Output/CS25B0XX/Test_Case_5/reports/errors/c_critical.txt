@@ -1,2 +1,0 @@
-CRITICAL Meltdown
-CRITICAL Meltdown

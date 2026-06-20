@@ -1,8 +1,0 @@
-File: messy.log
-Total lines: 5
-INFO count: 1
-WARNING count: 1
-ERROR count: 1
-CRITICAL count: 2
-Classification: SEVERE
-Most frequent severity: CRITICAL

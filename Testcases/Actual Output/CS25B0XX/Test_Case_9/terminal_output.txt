@@ -1,4 +1,0 @@
-Processing empty.log ...
-Classification: SAFE
-Analysis complete.
-Reports stored in reports/

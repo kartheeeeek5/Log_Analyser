@@ -1,8 +1,0 @@
-File: case.log
-Total lines: 6
-INFO count: 0
-WARNING count: 1
-ERROR count: 1
-CRITICAL count: 1
-Classification: SEVERE
-Most frequent severity: CRITICAL

@@ -1,8 +1,0 @@
-File: beta.log
-Total lines: 4
-INFO count: 0
-WARNING count: 1
-ERROR count: 2
-CRITICAL count: 1
-Classification: SEVERE
-Most frequent severity: ERROR

@@ -1,4 +1,0 @@
-Processing messy.log ...
-Classification: SEVERE
-Analysis complete.
-Reports stored in reports/

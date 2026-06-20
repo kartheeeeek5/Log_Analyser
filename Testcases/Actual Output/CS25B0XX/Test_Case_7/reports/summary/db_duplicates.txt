@@ -1,4 +1,0 @@
-2 CRITICAL Replica lost
-2 ERROR Query failed
-2 INFO Connected
-2 WARNING Cache low

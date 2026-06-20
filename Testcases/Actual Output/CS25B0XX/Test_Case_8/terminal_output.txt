@@ -1,4 +1,0 @@
-Processing alerts.log ...
-Classification: ATTENTION
-Analysis complete.
-Reports stored in reports/

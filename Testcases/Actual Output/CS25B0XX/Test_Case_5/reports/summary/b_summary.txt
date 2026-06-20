@@ -1,8 +1,0 @@
-File: b.log
-Total lines: 3
-INFO count: 3
-WARNING count: 0
-ERROR count: 0
-CRITICAL count: 0
-Classification: SAFE
-Most frequent severity: INFO
