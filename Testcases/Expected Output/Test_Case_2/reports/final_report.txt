@@ -1,0 +1,15 @@
+Processed files: 1
+
+File: app.log
+Classification: ATTENTION
+ERROR count: 0
+CRITICAL count: 0
+
+Overall totals:
+INFO total: 3
+WARNING total: 2
+ERROR total: 0
+CRITICAL total: 0
+
+File with max ERROR: app.log
+File with max CRITICAL: app.log

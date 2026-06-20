@@ -1,0 +1,25 @@
+Processed files: 3
+
+File: alpha.log
+Classification: SEVERE
+ERROR count: 3
+CRITICAL count: 1
+
+File: beta.log
+Classification: SEVERE
+ERROR count: 2
+CRITICAL count: 1
+
+File: gamma.log
+Classification: SEVERE
+ERROR count: 0
+CRITICAL count: 1
+
+Overall totals:
+INFO total: 3
+WARNING total: 1
+ERROR total: 5
+CRITICAL total: 3
+
+File with max ERROR: alpha.log
+File with max CRITICAL: alpha.log

@@ -1,0 +1,15 @@
+Processed files: 1
+
+File: server.log
+Classification: DANGEROUS
+ERROR count: 2
+CRITICAL count: 0
+
+Overall totals:
+INFO total: 2
+WARNING total: 1
+ERROR total: 2
+CRITICAL total: 0
+
+File with max ERROR: server.log
+File with max CRITICAL: server.log

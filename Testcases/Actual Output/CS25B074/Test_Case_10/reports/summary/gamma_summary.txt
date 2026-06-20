@@ -1,0 +1,8 @@
+File: gamma.log
+Total lines: 3
+INFO count: 2
+WARNING count: 0
+ERROR count: 0
+CRITICAL count: 1
+Classification: SEVERE
+Most frequent severity: INFO

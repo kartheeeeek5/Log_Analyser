@@ -1,0 +1,8 @@
+File: alpha.log
+Total lines: 5
+INFO count: 1
+WARNING count: 0
+ERROR count: 3
+CRITICAL count: 1
+Classification: SEVERE
+Most frequent severity: ERROR

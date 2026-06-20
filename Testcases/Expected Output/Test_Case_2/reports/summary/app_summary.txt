@@ -1,0 +1,8 @@
+File: app.log
+Total lines: 5
+INFO count: 3
+WARNING count: 2
+ERROR count: 0
+CRITICAL count: 0
+Classification: ATTENTION
+Most frequent severity: INFO

@@ -1,0 +1,8 @@
+File: empty.log
+Total lines: 0
+INFO count: 0
+WARNING count: 0
+ERROR count: 0
+CRITICAL count: 0
+Classification: SAFE
+Most frequent severity: NONE

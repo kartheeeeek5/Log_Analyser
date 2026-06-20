@@ -1,0 +1,15 @@
+Processed files: 1
+
+File: alerts.log
+Classification: ATTENTION
+ERROR count: 0
+CRITICAL count: 0
+
+Overall totals:
+INFO total: 1
+WARNING total: 3
+ERROR total: 0
+CRITICAL total: 0
+
+File with max ERROR: alerts.log
+File with max CRITICAL: alerts.log

@@ -1,0 +1,2 @@
+CRITICAL Kernel panic
+CRITICAL Kernel panic

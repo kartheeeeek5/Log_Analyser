@@ -1,0 +1,2 @@
+CRITICAL Replica lost
+CRITICAL Replica lost

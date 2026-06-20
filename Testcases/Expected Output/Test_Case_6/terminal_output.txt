@@ -1,0 +1,6 @@
+Processing case.log ...
+Classification: SEVERE
+Processing empty.log ...
+Classification: SAFE
+Analysis complete.
+Reports stored in reports/

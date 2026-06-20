@@ -1,0 +1,8 @@
+File: c.log
+Total lines: 4
+INFO count: 0
+WARNING count: 1
+ERROR count: 1
+CRITICAL count: 2
+Classification: SEVERE
+Most frequent severity: CRITICAL

@@ -1,0 +1,8 @@
+File: db.log
+Total lines: 8
+INFO count: 2
+WARNING count: 2
+ERROR count: 2
+CRITICAL count: 2
+Classification: SEVERE
+Most frequent severity: CRITICAL

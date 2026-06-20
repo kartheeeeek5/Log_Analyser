@@ -1,0 +1,4 @@
+Processing server.log ...
+Classification: DANGEROUS
+Analysis complete.
+Reports stored in reports/

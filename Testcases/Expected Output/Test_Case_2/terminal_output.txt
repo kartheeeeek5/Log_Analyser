@@ -1,0 +1,4 @@
+Processing app.log ...
+Classification: ATTENTION
+Analysis complete.
+Reports stored in reports/
